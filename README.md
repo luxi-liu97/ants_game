@@ -1,5 +1,5 @@
 # "Ants vs Bees" - Tower Defense Game
-A full "Plants vs Zombies"-style game created using an object-oriented programming paradigm. This project involves understanding, extending, and testing a large program.
+A "Plants vs Zombies"-style game created using an object-oriented programming paradigm. This project involves understanding, extending, and testing a large program.
 
 To play the game with the GUI, clone the repository and either open [gui.html](gui.html) or run from the terminal: 
 ```
